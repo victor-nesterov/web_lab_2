@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "lsof": "^0.1.0",
+    "socket.io": "^4.7.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "lab_drawing",
+  "version": "1.0.0",
+  "description": "Lab_C10_Sockets",
+  "main": "server.js",
+  "author": "Max Somov",
+  "license": "ISC"
+}
